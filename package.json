@@ -1,0 +1,26 @@
+{
+  "name": "sap003-md-links",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeticiaISilveira/SAP003-md-links.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeticiaISilveira/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/LeticiaISilveira/SAP003-md-links#readme"
+}
