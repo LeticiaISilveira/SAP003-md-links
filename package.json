@@ -1,5 +1,5 @@
 {
-  "name": "sap003-md-links",
+  "name": "md-links",
   "version": "1.0.0",
   "description": "## Índice",
   "main": "index.js",
@@ -19,6 +19,9 @@
   },
   "author": "",
   "license": "ISC",
+  "bin": {
+    "md-links": "cli.js"
+  },
   "bugs": {
     "url": "https://github.com/LeticiaISilveira/SAP003-md-links/issues"
   },
