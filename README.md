@@ -1,6 +1,6 @@
 # Markdown Links
 
-É uma bibliotexa cuja função é extrair links de um arquivo com formato markdown (.md) e retornar um array de objetos contendo o título e o link.
+É uma biblioteca cuja função é extrair links de um arquivo com formato markdown (.md) e retornar um array de objetos contendo o título e o link.
 
 ## Índice
 
