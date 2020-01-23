@@ -19,7 +19,8 @@ Arquivos markdown possuem a extensão .md , esse tipo de arquivo foi desenvolvid
 ## 2. Como instalar
 1-Para executar esta biblioteca você deverá ter o node e npm instalados.
 
-2- Para a instalação, digite em seu terminal: npm install -g LeticiaISilveira/SAP003-md-links
+2- Para a instalação, digite em seu terminal: 
+`npm install https://github.com/LeticiaISilveira/SAP003-md-links`
 
 
 ## 3. Como utilizar
