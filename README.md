@@ -25,7 +25,7 @@ Arquivos markdown possuem a extensão .md , esse tipo de arquivo foi desenvolvid
 
 ## 3. Como utilizar
 $ md-links exemplo.md
-
+//versão do NODE v12.13.0
 $ node
 > const links = require("md-links");
 > console.log(links.mdLinks('[Markdown](https://pt.wikipedia.org/wiki/Markdown) é uma linguagem de marcação'))
